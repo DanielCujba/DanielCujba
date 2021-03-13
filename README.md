@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DanielCujba
+- 👀 I’m interested in learning about all areas of computer science like computer arhitecture, cyber security and many more.
+- 🌱 I’m currently a high school student. I am learning the basics of comsci in my programming class in C++, but I am also self-teaching myself other things like web developing.
+- 💞️ I’m not looking to collaborate on any projects at the moment as I am still learning the ropes, but hopefully in the near future I would be able to take on such collaborative projects.
+- 📫 You can reach me by email: daniel.cujba.54@gmail.com. I may not be a looking for collaborative project yet, but I will not turn down any that I come across. Still, keep in mind that I am just a beginner right now.
